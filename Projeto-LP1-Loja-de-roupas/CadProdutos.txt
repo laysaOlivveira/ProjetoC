@@ -1,0 +1,16 @@
+Nome: Blusa 
+Código: 123 
+Preço: 18.00
+----------------------
+Nome: Vestido 
+Código: 111 
+Preço: 18.00
+----------------------
+Nome: Shorts 
+Código: 456 
+Preço: 18.00
+----------------------
+Nome: flare 
+Código: 44 
+Preço: 18.00
+----------------------
